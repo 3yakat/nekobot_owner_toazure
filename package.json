@@ -1,0 +1,14 @@
+{
+  "name": "catwith_o_0410",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^7.2.0",
+    "azure-storage": "^2.10.3",
+    "fs": "^0.0.1-security"
+  }
+}
